@@ -1,0 +1,19 @@
+{
+  "name": "estoreback",
+  "version": "1.0.0",
+  "description": "Backend - Express Server for e-store",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webrankie/eStore-backend.git"
+  },
+  "author": "316clouds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webrankie/eStore-backend/issues"
+  },
+  "homepage": "https://github.com/webrankie/eStore-backend#readme"
+}
